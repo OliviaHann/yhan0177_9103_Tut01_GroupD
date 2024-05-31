@@ -1,8 +1,8 @@
 # yhan0177_9103_Tut01_GroupD
-# 交互说明
-## 我使用Perlin noise来驱动我的个人代码。
-# Interactive Particle Animation
 
+## I use Perlin noise to drive my Functioning prototype.
+
+# Interactive description
 ## 1. Loading the Page
 When the page loads, it automatically switches between two particle animation modes: Webcam Capture Mode and The Scream Image Mode.
 At the top of the screen, there are two buttons: "Use Webcam" and "Back to Default Image." Click the "Use Webcam" button to start the Webcam Capture Mode. Click the "Back to Default Image" button to return to The Scream Image Mode.
